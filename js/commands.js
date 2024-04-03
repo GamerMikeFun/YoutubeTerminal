@@ -1,40 +1,28 @@
-var youtube = "https://www.youtube.com/fknight/";
-var twitter = "https://www.twitter.com/forrestpknight/";
+var youtube = "https://www.youtube.com/@gamermikefun4463";
 var password = "fkcodes";
-var linkedin = "https://www.linkedin.com/in/forrestpknight/";
-var instagram = "https://www.instagram.com/forrestpknight/";
 var github = "https://github.com/forrestknight/";
 var email = 'mailto:forrest@fkcodes.com';
+var speedrun4blooper1 = "https://www.youtube.com/watch?v=lx2KqzQLys0"
+var speedrun4blooper2 = "https://www.youtube.com/watch?v=qTahqmaaJ_w"
+var scprpblooper1 = "https://www.youtube.com/watch?v=uEgUZk6PJ5w"
 
 whois = [
   "<br>",
-  "Hey, I'm Forrest!ðŸ‘‹",
-  "I'm a software engineer and content creator, who builds engaging websites like this one",
-  "and makes YouTube videos about computer science & software engineering.",
-  "After graduating with a Bachelor's in Computer Science, I worked professionally",
-  "as a software engineer building enterprise web applications for Fortune 500 companies.",
-  "While doing all of that, I documented my coding journey on YouTube - trying to enlighten",
-  "the next generation of developers and help them navigate the crazy world that is software", "engineering & computer science.",
-  "Before I knew it, that online presence took on a life of its own, to the point where I knew",
-  "I needed to make the jump from software engineering to full time content creation - strike while",
-  "the iron's hot.",
-  "Now, I make videos about software engineering and computer science, building anything my heart desires,",
-  "like this terminal website.",
+  "Hey, I'm GamerMike!‹",
+  "I'm a content creator,", 
+  "who makes horrible gaming videos",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "The paradox of â€œWho am I?â€ is: we never know, but, we constantly find out.",
+  "Status: Guest",
   "<br>"
 ];
 
 social = [
   "<br>",
   'youtube        <a href="' + youtube + '" target="_blank">youtube/fknight' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/forrestpknight' + '</a>',
-  'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/forrestpknight' + "</a>",
-  'instagram      <a href="' + instagram + '" target="_blank">instagram/forrestpknight' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/forrestknight' + "</a>",
   "<br>"
 ];
@@ -75,29 +63,10 @@ banner = [
   "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
 
-gamer_data_gamermikefun = [
-"<br>",
-"Retrieving Data For GamerMikeFun",
-"...",
-"Latest Operation Completed",
-"...",
-"Operation Aerial Ace",
-"...",
-"Remaining Operations",
-"...",
-"Operation Air Support",
-"Operation Air Superiority",
-"<br>"
-];
-
-nuke_launch = [
+bloopers = [
   "<br>",
-  '<span class="command">nuke_launch_code_203948752</span>           Only use if you\'re admin',
+  '<span class="command">speedrun4blooper1</span>          Playing Zombie Mode...And I die! A LOT!!!',
+  '<span class="command">speedrun4blooper2</span>         Playing Speed Run 4! I die so much I give up, and just upload it UNEDITED!!!',
+  '<span class="command">scprpblooper1</span>          Roblox SCP roleplay with Random [BLOOPER] - Trigger Warning',
   "<br>"
 ];
-
-nuke_launch_code_203948752 = [
-  "<br>",
-  "14 Gigaton Nuclear Atomizer (circa 1969) Launched at ******, ******",
-  "<br>"
-]

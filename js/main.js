@@ -88,9 +88,6 @@ function commander(cmd) {
     case "whoami":
       loopLines(whoami, "color2 margin", 80);
       break;
-    case "gamer_data_gamermikefun":
-      loopLines(gamer_data_gamermikefun, "color2 margin", 80);
-      break;
     case "nuke_launch":
       addLine("Admin Not Detected", "color2", 80);
       setTimeout(function() {
@@ -101,6 +98,22 @@ function commander(cmd) {
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
       break;
+    
+    //blooper videos
+    case "speedrun4blooper1":
+      addLine("Opening Blooper...", "color2", 80);
+      newTab(speedrun4blooper1);
+      break;
+    case "speedrun4blooper2":
+      addLine("Opening Blooper...", "color2", 80);
+      newTab(speedrun4blooper2);
+      break;
+    case "speedrun4blooper2":
+      addLine("Opening Blooper...", "color2", 80);
+      newTab(scprpblooper1);
+      break;
+
+
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
       setTimeout(function() {
