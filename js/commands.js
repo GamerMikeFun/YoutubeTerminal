@@ -1,6 +1,6 @@
 var youtube = "https://www.youtube.com/@gamermikefun4463";
 var password = "fkcodes";
-var github = "https://github.com/forrestknight/";
+var github = "https://github.com/GamerMikeFun/";
 var email = 'mailto:forrest@fkcodes.com';
 var speedrun4blooper1 = "https://www.youtube.com/watch?v=lx2KqzQLys0"
 var speedrun4blooper2 = "https://www.youtube.com/watch?v=qTahqmaaJ_w"
@@ -12,7 +12,7 @@ whois = [
   "I'm a content creator,", 
   "who makes horrible gaming videos",
   "<br>"
-];
+]; 
 
 whoami = [
   "<br>",
