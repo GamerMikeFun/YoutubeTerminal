@@ -99,7 +99,14 @@ function commander(cmd) {
       newTab(youtube);
       break;
     
+    //blooper helper
+    
+    case "bloopers":
+      loopLines(bloopers, "color2 margin", 80);
+      break;
+      
     //blooper videos
+    
     case "speedrun4blooper1":
       addLine("Opening Blooper...", "color2", 80);
       newTab(speedrun4blooper1);
