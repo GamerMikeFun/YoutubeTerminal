@@ -115,7 +115,7 @@ function commander(cmd) {
       addLine("Opening Blooper...", "color2", 80);
       newTab(speedrun4blooper2);
       break;
-    case "speedrun4blooper2":
+    case "scprpblooper1":
       addLine("Opening Blooper...", "color2", 80);
       newTab(scprpblooper1);
       break;
