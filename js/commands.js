@@ -8,7 +8,7 @@ var scprpblooper1 = "https://www.youtube.com/watch?v=uEgUZk6PJ5w"
 
 whois = [
   "<br>",
-  "Hey, I'm GamerMike!‹",
+  "Hey, I'm GamerMike!",
   "I'm a content creator,", 
   "who makes horrible gaming videos",
   "<br>"
