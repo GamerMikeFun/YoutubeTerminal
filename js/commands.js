@@ -69,6 +69,6 @@ bloopers = [
   '<span class="command">speedrun4blooper1</span>          Playing Zombie Mode...And I die! A LOT!!!',
   '<span class="command">speedrun4blooper2</span>          Playing Speed Run 4! I die so much I give up, and just upload it UNEDITED!!!',
   '<span class="command">scprpblooper1</span>              Roblox SCP roleplay with Random [BLOOPER] - Trigger Warning',
-  "<br>"
+  "<br>",
 ];
 
