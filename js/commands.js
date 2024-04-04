@@ -71,3 +71,4 @@ bloopers = [
   '<span class="command">scprpblooper1</span>              Roblox SCP roleplay with Random [BLOOPER] - Trigger Warning',
   "<br>"
 ];
+
