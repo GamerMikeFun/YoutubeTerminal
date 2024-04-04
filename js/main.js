@@ -145,10 +145,6 @@ function commander(cmd) {
       loopLines(commands, "color2", 80);
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
-    case "email":
-      addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
-      newTab(email);
-      break;
     case "clear":
       setTimeout(function() {
         terminal.innerHTML = '<a id="before"></a>';
@@ -162,18 +158,6 @@ function commander(cmd) {
     case "youtube":
       addLine("Opening YouTube...", "color2", 80);
       newTab(youtube);
-      break;
-    case "twitter":
-      addLine("Opening Twitter...", "color2", 0);
-      newTab(twitter);
-      break;
-    case "linkedin":
-      addLine("Opening LinkedIn...", "color2", 0);
-      newTab(linkedin);
-      break;
-    case "instagram":
-      addLine("Opening Instagram...", "color2", 0);
-      newTab(instagram);
       break;
     case "github":
       addLine("Opening GitHub...", "color2", 0);
